@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://engineering.vanderbilt.edu/departments/computer-science/'>Computer Science</a>. Vanderbilt University.
+subtitle: <a href='https://engineering.vanderbilt.edu/departments/computer-science/'> Computer Science </a>. Vanderbilt University.
 
 profile:
   align: right
