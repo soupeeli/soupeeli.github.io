@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://soupeeli.github.io/sitemap.xml
+Sitemap: http://soupeeli.github.io/sitemap.xml
