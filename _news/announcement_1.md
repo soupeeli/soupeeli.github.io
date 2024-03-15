@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Inter-brain substrates of role switching during mother-child interaction" got accepted by Human Brain Mapping! (Finally!)
+Our paper "Inter-brain substrates of role switching during mother-child interaction" got accepted by **Human Brain Mapping**! (Finally!)

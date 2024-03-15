@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers were accepted by SPIE: Medical Imaging 2024! 
+Two papers were accepted by **SPIE: Medical Imaging 2024**! 
