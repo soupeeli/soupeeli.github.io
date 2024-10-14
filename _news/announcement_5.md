@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author paper has been accepted to **NeurIPS 2024** :relaxed:! 
+One first-author paper has been accepted to **NeurIPS 2024** :sparkles:! 
