@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the first prize and won **Best Poster Award** at ECE Day! 
+I won the **Best Poster Award** at ECE Day! 
