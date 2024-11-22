@@ -6,7 +6,7 @@
       "url": "",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2022-08-15",
+      "startDate": "2022-08",
       "endDate": ""
     },
     {
@@ -15,8 +15,8 @@
       "url": "",
       "area": "Biomedical Engineering",
       "studyType": "MS",
-      "startDate": "2019-09-01",
-      "endDate": "2022-03-26"
+      "startDate": "2019-09",
+      "endDate": "2022-03"
     },
     {
       "institution": "Xi'an Jiaotong University",
@@ -24,8 +24,8 @@
       "url": "",
       "area": "Biomedical Engineering",
       "studyType": "BS",
-      "startDate": "2015-09-01",
-      "endDate": "2019-06-26"
+      "startDate": "2015-09",
+      "endDate": "2019-06"
     }
   ],
   "awards": [
