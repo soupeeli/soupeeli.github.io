@@ -19,12 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! This is Yamin (雅敏). I am currently a third-year Ph.D. student in [Neurdy Lab](https://www.cchanglab.net/home), where I am fortunate to be advised by [Prof. Catie Chang](https://engineering.vanderbilt.edu/bio/?pid=catie-chang). Before joining Vandy, I obtained my master's degree at Shanghai Jiao Tong University, advised by [Prof. Xiaoli Guo](https://en.bme.sjtu.edu.cn/show-33-120.html) and [Prof. Shanbao Tong](https://en.bme.sjtu.edu.cn/show-33-123.html), and my bachelor's degree at Xi'an Jiaotong University, working with [Prof. Gang Wang](https://scholar.google.com/citations?user=1t_akZoAAAAJ&hl=en&oi=ao). 
+Hello! This is Yamin (雅敏). I am currently a fourth-year Ph.D. student in [Neurdy Lab](https://www.cchanglab.net/home), where I am fortunate to be advised by [Prof. Catie Chang](https://engineering.vanderbilt.edu/bio/?pid=catie-chang). Before joining Vandy, I obtained my master's degree at Shanghai Jiao Tong University, advised by [Prof. Xiaoli Guo](https://en.bme.sjtu.edu.cn/show-33-120.html) and [Prof. Shanbao Tong](https://en.bme.sjtu.edu.cn/show-33-123.html), and my bachelor's degree at Xi'an Jiaotong University, working with [Prof. Gang Wang](https://scholar.google.com/citations?user=1t_akZoAAAAJ&hl=en&oi=ao). I am currently a Research Scientist Intern at Meta Reality Lab Research, working on multimodal representation learning.
 
 My research interest lies in:
+- Multimodal Representation Learning
+- AI for sensor and healthcare
 - NeuroAI
-- Time Series Analysis
-- Multi-modal Learning
+- Large-scale time-series modeling
 - Brain Decoding
-- Representation Learning
 
