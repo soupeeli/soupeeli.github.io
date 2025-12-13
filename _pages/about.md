@@ -28,4 +28,4 @@ My research interest lies in:
 - NeuroAI & Brain decoding
 - Large-scale time-series modeling
 
-**I’m open to research collaborations and actively seeking Summer 2026 internship opportunities! If you’re interested in working together, feel free to reach out at yamin.li [at] vanderbilt.edu \:D !**
+<span style="color: #8B5CF6; font-weight: bold;">I'm open to research collaborations and actively seeking Summer 2026 internship opportunities! If you're interested in working together, feel free to reach out at yamin.li [at] vanderbilt.edu :D !</span>
