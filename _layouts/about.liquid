@@ -78,21 +78,49 @@ layout: default
     {% endif %}
 
     <!-- Visitor Map -->
-    <div class="visitor-map text-center mt-4">
-      <!-- Light theme map -->
-      <div class="visitor-map-light">
-        <script type="text/javascript" id="mapmyvisitors-light" src="https://mapmyvisitors.com/map.js?cl=ead1e6&w=300&t=n&d=-wu4jsCiEh8k7IAyx1m0jIfj1Cn9ceCP8ak49OURr1A&co=ffffff&ct=808080&cmo=e263ef&cmn=44d2ef"></script>
-      </div>
+    <div class="visitor-map text-center mt-4" id="visitor-map-container"></div>
+    <script>
+      (function() {
+        // Map URLs for different themes
+        const lightMapUrl = "https://mapmyvisitors.com/map.js?cl=ead1e6&w=300&t=n&d=-wu4jsCiEh8k7IAyx1m0jIfj1Cn9ceCP8ak49OURr1A&co=ffffff&ct=808080&cmo=e263ef&cmn=44d2ef";
+        const darkMapUrl = "https://mapmyvisitors.com/map.js?cl=789caa&w=300&t=n&d=-wu4jsCiEh8k7IAyx1m0jIfj1Cn9ceCP8ak49OURr1A&co=1c1c1d&ct=808080&cmo=e263ef&cmn=44d2ef";
 
-      <!-- Dark theme map (replace URL with your dark theme map) -->
-      <div class="visitor-map-dark">
-        <script type="text/javascript" id="mapmyvisitors-dark" src="https://mapmyvisitors.com/map.js?cl=789caa&w=300&t=n&d=-wu4jsCiEh8k7IAyx1m0jIfj1Cn9ceCP8ak49OURr1A&co=1c1c1d&ct=808080&cmo=e263ef&cmn=44d2ef"></script>
-      </div>
+        function loadVisitorMap() {
+          const container = document.getElementById('visitor-map-container');
+          if (!container) return;
 
-      <style>
-        html[data-theme="light"] .visitor-map-dark { display: none; }
-        html[data-theme="dark"] .visitor-map-light { display: none; }
-      </style>
-    </div>
+          // Clear existing map
+          container.innerHTML = '';
+
+          // Get current theme
+          const theme = determineComputedTheme();
+          const mapUrl = theme === 'dark' ? darkMapUrl : lightMapUrl;
+
+          // Create and append script
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.id = 'mapmyvisitors';
+          script.src = mapUrl;
+          container.appendChild(script);
+        }
+
+        // Load map when page is ready
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', loadVisitorMap);
+        } else {
+          loadVisitorMap();
+        }
+
+        // Reload map when theme changes
+        document.addEventListener('DOMContentLoaded', function() {
+          const themeToggle = document.getElementById('light-toggle');
+          if (themeToggle) {
+            themeToggle.addEventListener('click', function() {
+              setTimeout(loadVisitorMap, 100);
+            });
+          }
+        });
+      })();
+    </script>
   </article>
 </div>
