@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yamin Li
+title: blank # use first_name + last_name with bold styling
 first_name: Yamin
 middle_name:  
 last_name: Li
