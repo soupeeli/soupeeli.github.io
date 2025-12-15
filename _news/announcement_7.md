@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my **Research Scientist Intern** role with the Multimodal Representation Learning team at **Meta Reality Lab Research**! I’ll be working on a multimodal hand foundation model.
+Starting my **Research Scientist Intern** role with the Multimodal Representation Learning team at `Meta Reality Lab Research`! I’ll be working on a multimodal hand foundation model.

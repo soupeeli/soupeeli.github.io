@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially wrapped up my research internship at Meta — paper coming out soon!
+Officially wrapped up my research internship at `Meta` — paper coming out soon!

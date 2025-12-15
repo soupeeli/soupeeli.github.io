@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on reconstructing physiological data from brain signals has been accepted to **NeurIPS 2025 Foundation Models for the Brain&Body Workshop**! 
+Our work on reconstructing physiological data from brain signals has been accepted to `NeurIPS 2025 Foundation Models for the Brain&Body Workshop`! 

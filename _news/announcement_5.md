@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on EEG-to-fMRI translation has been accepted to **NeurIPS 2024** :sparkles:! 
+Our paper on EEG-to-fMRI translation has been accepted to `NeurIPS 2024` :sparkles:! 

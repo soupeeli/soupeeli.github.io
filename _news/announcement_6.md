@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers were accepted by **SPIE: Medical Imaging 2025**! 
+Three papers were accepted by `SPIE: Medical Imaging 2025`! 

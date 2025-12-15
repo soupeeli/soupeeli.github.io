@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work CBrain were accepted by **MICCAI 2025**! 
+Our work CBrain were accepted by `MICCAI 2025`! 
