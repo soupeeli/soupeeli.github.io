@@ -50,8 +50,10 @@ layout: default
 
     <!-- Service -->
     {% if page.service %}
-      <h2>service</h2>
-      {{ page.service | markdownify }}
+      <div style="margin-top: 2rem;">
+        <h2>service</h2>
+        {{ page.service | markdownify }}
+      </div>
     {% endif %}
 
     <!-- Latest posts -->
