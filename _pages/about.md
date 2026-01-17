@@ -14,6 +14,7 @@ profile:
     <p>Nashville, TN, USA</p>
 
 news: true # includes a list of news items
+service: "Reviewer: `CVPR`, `NeurIPS`, `ICLR`, `ICML`, `MICCAI`, `AISTATS`, `TMLR`, `IEEE TMI`"
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,6 +31,8 @@ My research interest lies in:
 
 
 <span style="color: #b520ac; font-weight: bold;">I'm open to research collaborations and actively seeking 2026 internship opportunities! If you're interested in working together, feel free to reach out at yamin.li [at] vanderbilt.edu :D !</span>
+
+
 
 
 
