@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: Yamin_Li_CV_12102025.pdf
+cv_pdf: YaminLi_CV_Jan262026.pdf
 description: 
 toc:
   sidebar: left
