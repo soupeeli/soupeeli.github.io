@@ -32,7 +32,7 @@ My research interest lies in:
 - Large-scale time-series modeling
 
 
-<span style="color: #b520ac; font-weight: bold;">I'm open to research collaborations! If you're interested in working together, feel free to reach out at yamin.li [at] vanderbilt.edu :D !</span>
+<span style="color: var(--global-theme-color); font-weight: bold;">I'm open to research collaborations! If you're interested in working together, feel free to reach out at yamin.li [at] vanderbilt.edu :D !</span>
 
 
 
