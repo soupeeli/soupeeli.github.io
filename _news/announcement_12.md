@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper UnEBOLT have been accepted to `MIDL2026` and selected as **Spotlight**!
+Our paper UnEBOLT has been accepted to `MIDL2026` and selected as **Spotlight**!
