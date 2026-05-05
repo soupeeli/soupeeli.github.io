@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, **UniEFS** (**U**nified **E**EG-to-**f**MRI **S**ynthesis), has been accepted to `ICML2026`:brain::sparkles:!!
+Our paper, **UniEFS** (**U**nified **E**EG-to-**f**MRI **S**ynthesis), has been accepted to `ICML2026`:brain::sparkles:!! Details coming soon!
