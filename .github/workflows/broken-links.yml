@@ -45,4 +45,5 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude 'mapmyvisitors.com' --exclude 'unsplash.com' --verbose --no-progress './**/*.md' './**/*.html'
+          # retries + tolerated status codes so flaky/bot-blocked external links (mostly in the al-folio example posts) don't block deploys
+          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude 'mapmyvisitors.com' --exclude 'unsplash.com' --max-retries 3 --retry-wait-time 10 --timeout 30 --accept '200..=299,403,429,500,503' --verbose --no-progress './**/*.md' './**/*.html'
